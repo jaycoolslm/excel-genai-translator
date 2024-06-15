@@ -6,10 +6,14 @@
 
 2. Upload a CSV which follows this structure
 
-Orginal language, Language1, Language2, Language3 etc...\n
-Lorem Ipsum, , ,\n
-Lorem Ipsum, , ,\n
-Lorem Ipsum, , ,\n
+Orginal language, Language1, Language2, Language3 etc...
+
+Lorem Ipsum, , ,
+
+Lorem Ipsum, , ,
+
+Lorem Ipsum, , ,
+
 etc.
 
 e.g. 
