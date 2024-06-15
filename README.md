@@ -6,7 +6,7 @@
 
 2. Upload a CSV which follows this structure
 
-```Orginal language, Language1, Language2, Language3 etc...
+`Orginal language, Language1, Language2, Language3 etc...
 
 Lorem Ipsum, , ,
 
@@ -14,17 +14,17 @@ Lorem Ipsum, , ,
 
 Lorem Ipsum, , ,
 
-etc.```
+etc.`
 
 e.g. 
 
-```English, French, Malay, Spanish
+`English, French, Malay, Spanish
 
 Hello world, , ,
 
 How are you, , ,
 
-Today is great, , ,```
+Today is great, , ,`
 
 
 3. Click translate
