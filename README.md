@@ -6,18 +6,18 @@
 
 2. Upload a CSV which follows this structure
 
-Orginal language, Language1, Language2, Language3 etc...
-Lorem Ipsum, , ,
-Lorem Ipsum, , ,
-Lorem Ipsum, , ,
+Orginal language, Language1, Language2, Language3 etc...\n
+Lorem Ipsum, , ,\n
+Lorem Ipsum, , ,\n
+Lorem Ipsum, , ,\n
 etc.
 
 e.g. 
 
-English, French, Malay, Spanish
-Hello world, , ,
-How are you, , ,
-Today is great, , ,
+English, French, Malay, Spanish\n
+Hello world, , ,\n
+How are you, , ,\n
+Today is great, , \n,
 
 3. Click translate
 
